@@ -7,6 +7,9 @@ public class ProjectJulyUpdated {
 		System.out.println("Test 1");
 		System.out.println("Test 2");
 		System.out.println("Test 3");
+		System.out.println("Test 10");
+		System.out.println("Test 11");
+		System.out.println("Test 12");
 	}
 
 }
