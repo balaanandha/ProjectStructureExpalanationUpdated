@@ -10,6 +10,10 @@ public class ProjectJulyUpdated {
 		System.out.println("Test 4");
 		System.out.println("Test 5");
 		System.out.println("Test 6");
+		System.out.println("Test 10");
+		System.out.println("Test 11");
+		System.out.println("Test 12");
+
 	}
 
 }
